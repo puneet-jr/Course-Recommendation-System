@@ -4,16 +4,16 @@ A comprehensive, AI-powered course recommendation system built with Streamlit th
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data Description](#data-description)
-- [Algorithm Details](#algorithm-details)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Data Description](#-data-description)
+- [Algorithm Details](#-algorithm-details)
+- [Configuration](#-configuration)
+- [Troubleshooting](#-troubleshooting)
+- [Future Enhancements](#-future-enhancements)
 
 ## 🎯 Overview
 
