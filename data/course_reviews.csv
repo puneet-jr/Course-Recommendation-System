@@ -1,0 +1,11 @@
+review_id,user_id,course_id,rating,review_text,helpful_count,timestamp
+R001,U001,C001,5,Excellent course! The instructor explains Python concepts very clearly. Highly recommend for beginners.,45,2024-01-15
+R002,U002,C001,4,Good content but could use more advanced examples. Still worth the money.,23,2024-01-20
+R003,U003,C002,5,Best ML course I've taken. Very comprehensive and practical projects.,67,2024-02-01
+R004,U001,C003,4,Great bootcamp for web development. Covers all the essentials.,34,2024-02-10
+R005,U004,C004,5,Amazing UX course! Changed how I think about design.,52,2024-02-15
+R006,U005,C005,3,Decent marketing course but feels outdated in some areas.,12,2024-02-20
+R007,U002,C006,5,Blockchain explained perfectly! Great hands-on projects.,41,2024-03-01
+R008,U006,C007,4,Solid React Native course. Good for getting started.,28,2024-03-05
+R009,U003,C008,5,AWS course is incredibly detailed. Must-take for cloud engineers.,59,2024-03-10
+R010,U007,C009,4,Good introduction to cybersecurity. Would like more advanced topics.,31,2024-03-15

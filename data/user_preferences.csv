@@ -1,0 +1,11 @@
+user_id,preferred_subjects,preferred_level,preferred_duration,preferred_language,learning_goals,learning_style,time_availability
+U001,Programming|Data Science,Beginner,30-50,English,Career Switch,Visual Learner,Weekends
+U002,Web Dev|DevOps,Intermediate,40-60,English,Skill Enhancement,Hands-on Practice,Evenings
+U003,AI/ML|Data Science,Advanced,50-70,English,Research,Theoretical Learning,Flexible
+U004,Design|Marketing,Beginner,20-40,English,Freelancing,Project-based,Mornings
+U005,Business|Marketing,Intermediate,30-50,English,Career Growth,Case Studies,Weekdays
+U006,Programming|Mobile Dev,Intermediate,40-60,English,App Development,Code-along,Evenings
+U007,Security|DevOps,Beginner,30-50,English,Career Change,Mixed Learning,Weekends
+U008,Game Dev|Programming,Beginner,40-60,English,Hobby Project,Tutorial-based,Flexible
+U009,Databases|Business,Intermediate,30-50,English,Job Requirement,Problem Solving,Weekdays
+U010,Design|Web Dev,Beginner,20-40,English,Side Business,Creative Projects,Weekends

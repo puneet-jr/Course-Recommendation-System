@@ -1,0 +1,9 @@
+path_id,path_name,description,courses,difficulty,duration,category
+LP001,Full Stack Developer,Complete path from beginner to full stack developer,C001|C003|C011|C020|C023,Beginner to Intermediate,200,Web Development
+LP002,Data Science Expert,Become a data scientist with Python and ML,C001|C017|C002|C021,Beginner to Advanced,180,Data Science
+LP003,UI/UX Designer,Master UI/UX design from basics to advanced,C004|C013|C019|C022,Beginner to Intermediate,140,Design
+LP004,Cloud DevOps Engineer,Complete cloud and DevOps certification path,C008|C018|C015,Intermediate to Advanced,160,DevOps
+LP005,Mobile App Developer,Build mobile apps for iOS and Android,C003|C007|C016,Beginner to Intermediate,150,Mobile Development
+LP006,Digital Marketing Pro,Comprehensive digital marketing specialization,C005|C025,Intermediate,95,Marketing
+LP007,Cybersecurity Specialist,Security and ethical hacking complete guide,C009|C008,Beginner to Intermediate,92,Security
+LP008,Game Developer,Create games with Unity and advanced techniques,C010|C001,Beginner,92,Game Development

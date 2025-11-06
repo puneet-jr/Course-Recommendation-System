@@ -1,0 +1,49 @@
+user_id,course_id,title,subject,level,skills,rating,reviewcount,students,price,platform,prerequisites,duration,instructor,language,description
+1,C1,Python for Absolute Beginners,Programming,Beginner,"Python, Logic",4.8,2400,45000,0,Coursera,None,12 hours,Dr. John Smith,English,Learn Python programming from scratch
+1,C3,Data Science with Python,Data Science,Intermediate,"Python, Pandas",4.7,1800,35000,49,Udemy,Python for Absolute Beginners,18 hours,Dr. Sarah Lee,English,Master data analysis visualization
+1,C14,Data Structures and Algorithms,Programming,Intermediate,"Python, Algorithms",4.9,3200,98000,39,Udemy,Python for Absolute Beginners,32 hours,Abdul Bari,English,Master essential data structures
+2,C4,Web Development Bootcamp,Web Development,Beginner,"HTML, CSS, JS",4.8,5600,120000,79,Udemy,None,40 hours,Angela Yu,English,Complete full-stack web development
+2,C24,Django Web Framework,Web Development,Intermediate,"Python, Django",4.7,2100,51000,59,Udemy,Python for Absolute Beginners,22 hours,Django Expert,English,Build robust web applications
+2,C27,Angular Modern Web Development,Web Development,Intermediate,"TypeScript, Angular",4.5,1900,44000,69,Udemy,Web Development Bootcamp,26 hours,Web Developer,English,Build single-page applications
+3,C2,Advanced Machine Learning,AI,Advanced,"ML, Deep Learning",4.9,4100,28000,99,Coursera,Data Science with Python,24 hours,Prof. Andrew Ng,English,Deep dive into neural networks
+3,C9,Natural Language Processing,AI,Advanced,"NLP, Transformers",4.8,2800,19000,129,Coursera,Advanced Machine Learning,22 hours,Prof. Emily Chen,English,Advanced NLP techniques
+3,C16,TensorFlow Machine Learning,AI,Advanced,"TensorFlow, ML",4.8,3100,34000,0,Coursera,Advanced Machine Learning,26 hours,Google AI Team,English,Build and deploy ML models
+4,C5,SQL Database Design,Databases,Intermediate,"SQL, Queries",4.6,1600,42000,39,Udacity,None,14 hours,John Doe,English,Comprehensive SQL course
+4,C29,MongoDB NoSQL Databases,Databases,Intermediate,"MongoDB, NoSQL",4.6,1400,36000,59,MongoDB University,SQL Database Design,14 hours,DB Expert,English,Master MongoDB covering documents
+5,C6,Cloud Computing with AWS,Cloud Computing,Intermediate,"AWS, Cloud",4.7,2200,38000,89,Coursera,None,20 hours,Cloud Expert,English,Learn Amazon Web Services
+5,C8,Docker and Kubernetes,DevOps,Advanced,"Docker, K8s",4.9,2700,31000,99,Pluralsight,Cloud Computing with AWS,16 hours,DevOps Pro,English,Master containerization orchestration
+5,C21,Git and GitHub Essentials,DevOps,Beginner,"Git, GitHub",4.7,4100,125000,0,Udemy,None,8 hours,Dev Mentor,English,Version control with Git
+6,C11,Digital Marketing Fundamentals,Marketing,Beginner,"SEO, Social Media",4.6,2900,67000,59,Udemy,None,15 hours,Marketing Guru,English,Learn SEO social media marketing
+6,C22,Business Intelligence with Tableau,Data Visualization,Intermediate,"Tableau, BI",4.6,1700,43000,69,Udemy,None,16 hours,BI Expert,English,Data visualization and BI
+7,C13,Cybersecurity Essentials,Security,Intermediate,"Security, Hacking",4.8,1900,41000,79,Coursera,None,20 hours,Security Specialist,English,Network security ethical hacking
+7,C23,Ethical Hacking and Penetration Testing,Security,Advanced,"Hacking, Pentesting",4.8,2400,29000,129,Udemy,Cybersecurity Essentials,28 hours,Security Pro,English,Advanced ethical hacking techniques
+8,C10,Java Programming Masterclass,Programming,Intermediate,"Java, OOP",4.7,7100,215000,49,Udemy,None,80 hours,Tim Buchalka,English,Complete Java course covering OOP
+8,C50,Spring Boot Microservices,Programming,Advanced,"Spring Boot, Java",4.8,1800,26000,99,Udemy,Java Programming Masterclass,30 hours,Java Expert,English,Build enterprise Java applications
+9,C7,React Native Mobile Development,Mobile Dev,Intermediate,"React Native, Mobile",4.5,2300,52000,69,Udemy,Web Development Bootcamp,28 hours,Maximilian Schwarzmuller,English,Build cross-platform mobile apps
+9,C18,iOS App Development Swift,Mobile Dev,Intermediate,"Swift, iOS",4.7,2100,47000,99,Udemy,None,35 hours,Apple Developer,English,Build native iOS applications
+9,C30,Flutter Mobile App Development,Mobile Dev,Intermediate,"Flutter, Dart",4.8,2400,48000,79,Udemy,None,28 hours,Flutter Expert,English,Cross-platform mobile development
+10,C15,UI/UX Design Principles,Design,Beginner,"Design, Figma",4.7,2200,56000,49,Udemy,None,14 hours,Design Mentor,English,User interface and experience design
+10,C41,Photoshop for Beginners,Design,Beginner,"Photoshop, Design",4.6,3800,91000,39,Udemy,None,14 hours,Design Expert,English,Adobe Photoshop fundamentals
+11,C20,Deep Learning Specialization,AI,Advanced,"Deep Learning, Neural Networks",4.9,4500,67000,149,Coursera,Advanced Machine Learning,45 hours,Prof. Andrew Ng,English,Comprehensive deep learning course
+11,C32,Computer Vision with OpenCV,AI,Advanced,"OpenCV, Computer Vision",4.8,1900,27000,99,Udemy,Deep Learning Specialization,20 hours,CV Expert,English,Image processing computer vision
+12,C17,Excel Data Analysis,Data Analysis,Beginner,"Excel, Data",4.5,3700,89000,29,Udemy,None,12 hours,Excel Expert,English,Master Microsoft Excel for data
+12,C31,Power BI Data Analytics,Data Visualization,Intermediate,"Power BI, Analytics",4.7,1800,41000,69,Udemy,Excel Data Analysis,18 hours,Microsoft Partner,English,Business analytics with Power BI
+13,C25,Game Development with Unity,Game Dev,Beginner,"Unity, C#",4.8,3100,74000,79,Udemy,None,30 hours,Game Developer,English,Create 2D and 3D games
+14,C12,Blockchain and Cryptocurrency,Blockchain,Intermediate,"Blockchain, Ethereum",4.5,1600,24000,99,Udemy,None,18 hours,Crypto Expert,English,Understanding blockchain technology
+15,C19,Linux System Administration,DevOps,Intermediate,"Linux, Shell",4.6,1900,38000,59,Linux Academy,None,18 hours,Linux Expert,English,Complete Linux administration
+15,C47,Jenkins CI/CD Pipeline,DevOps,Intermediate,"Jenkins, CI/CD",4.7,1400,31000,59,Udemy,Linux System Administration,14 hours,DevOps Engineer,English,Continuous integration deployment
+16,C26,R Programming for Data Science,Data Science,Intermediate,"R, Statistics",4.6,1700,38000,49,Coursera,None,18 hours,Stats Professor,English,Statistical computing and graphics
+17,C28,Artificial Intelligence A-Z,AI,Beginner,"AI, Algorithms",4.7,2800,52000,89,Udemy,None,16 hours,AI Instructors,English,Introduction to AI covering search
+18,C33,GraphQL API Development,Web Development,Advanced,"GraphQL, APIs",4.6,1200,23000,59,Udemy,Web Development Bootcamp,12 hours,API Developer,English,Modern API development with GraphQL
+19,C34,Salesforce Administration,Business,Intermediate,"Salesforce, CRM",4.7,1500,32000,129,Trailhead,None,24 hours,Salesforce Expert,English,Salesforce CRM administration
+20,C35,Kotlin Android Development,Mobile Dev,Intermediate,"Kotlin, Android",4.7,1800,39000,79,Udemy,None,32 hours,Android Developer,English,Build Android apps with Kotlin
+21,C36,Apache Spark Big Data,Big Data,Advanced,"Spark, Big Data",4.8,1300,21000,119,Udemy,Data Science with Python,22 hours,Big Data Expert,English,Big data processing with Spark
+22,C37,Vue.js Progressive Framework,Web Development,Intermediate,"Vue.js, JavaScript",4.6,1600,36000,59,Udemy,Web Development Bootcamp,20 hours,Vue Expert,English,Modern JavaScript framework Vue.js
+23,C38,Financial Analysis and Modeling,Finance,Intermediate,"Finance, Excel",4.7,1400,28000,89,Coursera,Excel Data Analysis,18 hours,Finance Professor,English,Corporate finance financial modeling
+24,C39,Selenium Test Automation,Testing,Intermediate,"Selenium, Testing",4.5,1500,33000,49,Udemy,None,16 hours,QA Expert,English,Automated testing with Selenium
+25,C40,Microservices Architecture,DevOps,Advanced,"Microservices, Architecture",4.8,1200,19000,129,Udemy,Docker and Kubernetes,24 hours,Architect,English,Design and deploy microservices
+26,C42,Ruby on Rails Web Development,Web Development,Intermediate,"Ruby, Rails",4.7,1300,27000,69,Udemy,None,28 hours,Rails Developer,English,Full-stack web development with Rails
+27,C43,Hadoop Big Data Platform,Big Data,Advanced,"Hadoop, MapReduce",4.6,1100,18000,119,Udemy,Apache Spark Big Data,26 hours,Data Engineer,English,Distributed computing with Hadoop
+28,C44,Swift Programming Language,Programming,Intermediate,"Swift, iOS",4.7,1600,34000,59,Udemy,None,18 hours,Swift Expert,English,Master Swift programming covering optionals
+29,C45,Network Security Fundamentals,Security,Beginner,"Networking, Security",4.5,1800,42000,69,Udemy,None,16 hours,Network Expert,English,Networking basics security protocols
+30,C46,Reinforcement Learning,AI,Advanced,"RL, Deep Learning",4.9,1000,14000,149,Coursera,Deep Learning Specialization,20 hours,RL Researcher,English,Advanced RL techniques covering Q-learning
